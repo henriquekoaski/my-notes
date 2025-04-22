@@ -1,10 +1,8 @@
 # 📝 My Notes
 
-# Testing Git Pull Origin Main
-
 ---
 
-## 🔧 Git Commands
+# 🔧 Git Commands
 
 ### 🛠️ Initialization & Configuration
 
